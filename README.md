@@ -1,28 +1,31 @@
 # 🕶️ P4154N0 is Online...
-### 👨‍💻 Back-End Developer | 🛡️ Cybersecurity Consultant | 🧪 CTF & Research Addict | 👨‍🎓 Lifelong Learner
+### 👨‍💻 Backend Developer | 🔌 Industrial IoT & Automation | ☁️ OCI Certified | 🛡️ Cybersecurity Consultant
 
 ---
 
-# 💫 About Me:
+# 💫 About Me
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Back-End+Developer+(Java+%26+Python);Self-taught+Computer+Science+Student;Computer+Science+in+progress...;Cybersecurity+Consultant;CTF+Participant;Active+Learner+Researcher;Lifelong+Learner+and+Builder+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Backend+Developer+(Java+21+%26+Spring+Boot+3);Industrial+IoT+%26+Automation;OCI+Certified+Associate;Preparing+for+Java+SE+21+Developer+OCP;Building+the+Bridge+Between+OT+%26+IT;Active+AI+Builder+%26+Workflow+Optimizer;Lifelong+Learner+and+Builder+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 👨‍💻 Who am I?
-I'm a Back-End Developer with experience in Java and Python, passionate about cybersecurity and industrial technology. I'm currently studying for a Bachelor’s degree in Informatics, while also pursuing Computer Science topics as a self-taught learner.
+I am a **Backend Developer** with **19 years of solid technical experience** in industrial electricity, electronics, telecommunications, and critical infrastructure. I am currently focusing my career on software development, combining my deep knowledge of physical hardware with modern backend technologies.
 
-### 🛡️ Ciberseguridad y CTFs
-I work as a Cybersecurity Consultant and actively participate in CTF competitions, which challenge me to apply technical skills in real-world scenarios.
+### ☁️ Cloud & Java Certification Journey
+I hold the official **Oracle Cloud Infrastructure (OCI) Foundations Associate** certification. Driven by a commitment to technical excellence and high standards, I am actively studying and preparing to obtain the **Oracle Certified Professional (OCP) Java SE 21 Developer** credential.
 
-### 🧠 Continuous Learning
-I'm a curious and constantly evolving learner, driven by problem-solving and hands-on experimentation. I love combining software and hardware, especially through my passion for industrial electricity and electronics (which I'm currently learning).
+### ⚙️ OT & IT Convergence (The Bridge)
+I specialize in bridging the gap between Operational Technology (OT) and Information Technology (IT). Leveraging my extensive background in industrial systems and PLCs, I design and implement IoT telemetry, edge-computing concepts, and automation flows that connect physical assets to the digital world.
 
-### 🤝 Collaboration and Community
-I'm always open to collaboration, new ideas, and meaningful tech conversations. Let’s build and grow together!
+### 🛡️ Cybersecurity
+As a **Cybersecurity Consultant**, I prioritize security in every flow and API I build. I actively participate in CTF competitions and apply security principles to ensure the robustness and integrity of distributed systems and network integrations.
+
+### 🧠 Continuous Evolution
+I am a disciplined and curious learner, currently exploring the power of Java 21 (Virtual Threads for telemetry) and Spring Boot 3. I am passionate about optimizing workflows using AI-driven orchestration (like n8n and LangGraph) to solve real-world industrial and agricultural challenges.
 
 ---
 
@@ -33,61 +36,53 @@ I'm always open to collaboration, new ideas, and meaningful tech conversations. 
 
 # 💻 Tech Stack:
 
-### 🖥️ Lenguajes de Programación
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+### 🖥️ Programming Languages
+![Java](https://img.shields.io/badge/Java_21_LTS-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### ⚙️ Backend & Frameworks
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF5722?style=for-the-badge&logo=git&logoColor=white)
 
-### 🗄️ Bases de Datos
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+### 🗄️ Database & Schema Management
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-F15A24?style=for-the-badge&logo=timescale&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0202?style=for-the-badge&logo=redhat&logoColor=white)
 
-### 🔧 Herramientas & DevOps
+### 🔧 DevOps, Tools & Automation
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+![Oracle Cloud Infrastructure](https://img.shields.io/badge/OCI-%23F30000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=Insomnia&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-### 🔌 Hardware & IoT
+### 🔌 Hardware, IoT & Industrial Protocols
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=hivemq&logoColor=white)
+![Chirpstack](https://img.shields.io/badge/Chirpstack-008080?style=for-the-badge&logo=sensortower&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
-
-
 
 ---
 
-## 🖥️ Operating Systems
+## 🖥️ Operating Systems & Shells
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,debian,kali,arduino,raspberrypi)](https://skillicons.dev)
 
 ---
 
-## 🧰 Others
-[![My Skills](https://skillicons.dev/icons?i=bash,docker)](https://skillicons.dev)
-
----
-
 ## 💻 IDEs
-[![My IDES](https://skillicons.dev/icons?i=idea,sublime,vscode)](https://skillicons.dev)
+[![My IDES](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=P4154N0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=P4154N0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=P4154N0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=P4154N0&theme=dark&v=2" alt="P4154N0 Streak Stats" />
+</p>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=P4154N0&icon=0&color=0)](https://visitcount.itsvg.in)
