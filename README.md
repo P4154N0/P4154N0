@@ -15,6 +15,19 @@
 ### 👨‍💻 Who am I?
 I am a **Backend Developer** with **+20 years of hands-on experience** in industrial electricity, electronics, telecommunications, and critical infrastructure. I hold an **Associate Degree in Systems & Application Development** and am currently focused 100% on software development, combining physical diagnostic logic with modern backend engineering.
 
+---
+
+### 🌐 Personal Web Portal & Interactive Portfolio
+> **Live Site:** [p4154n0.github.io/portfolio](https://p4154n0.github.io/portfolio/)
+
+Explore my interactive roadmap, tech stack, and background in Java backend development, OCI cloud architectures, and industrial digitalization tailored for Calgary's energy sector.
+
+---
+
+[![Live Portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-p4154n0.github.io%2Fportfolio-00f2fe?style=for-the-badge&logo=githubpages&logoColor=black)](https://p4154n0.github.io/portfolio/)
+
+---
+
 ### ☁️ Certifications & Academic Roadmap
 * **Current Status:** OCI Cloud Certified. Associate Degree in Systems & Software.
 * **2026 Target:** OCI AI Foundations & Advanced Cloud Certifications.
