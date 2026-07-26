@@ -6,7 +6,7 @@
 # 💫 About Me
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer+(Java+21+%26+Spring+Boot+3);OCI+Certified+Associate;Preparing+for+Java+SE+21+OCP;Building+the+Bridge+Between+Hardware+%26+Software;SAIT+Software+Development+Candidate+2028;Lifelong+Learner+and+Builder+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer+(Java+21+%26+Spring+Boot+3);OCI+Certified+Associate;Preparing+for+Java+SE+21+OCP;Building+the+Bridge+Between+Hardware+%26+Software;SAIT+Software+Development+Candidate+2028;Lifelong+Learner+and+Builder+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
