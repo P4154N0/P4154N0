@@ -1,5 +1,5 @@
 # 🕶️ P4154N0 is Online...
-### 👨‍💻 Junior Backend Developer | ☁️ OCI Certified | 🔌 Hardware & Infra | 🎯 SAIT 2028 Candidate
+### 👨‍💻 Backend Developer (Java 21 • Spring Boot) | OCI Certified | Bridging OT/IT Systems | 20+ yrs Telecoms & Electromechanics | Target: SAIT BTech 2028
 
 ---
 
